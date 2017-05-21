@@ -16,7 +16,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{6D7FB5E8-949B-45D0-A750-70A2CF272551}</ProjectGuid>
-    <RootNamespace>WireLoopGameBackend</RootNamespace>
+    <RootNamespace>Example</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
