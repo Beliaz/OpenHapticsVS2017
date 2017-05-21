@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a Visual Studio 2017 solution and project aimed to be a starting point for development under Windows. Note that the utility library needs to be recompiled for use with recent versions of Visual Studio. 
+This repository contains a Visual Studio 2017 project aimed to be a starting point for development under Windows. Note that the utility library needs to be recompiled for use with recent versions of Visual Studio. 
 
 Please obtain the new binaries from your course instructor.
 
@@ -10,7 +10,7 @@ Please obtain the new binaries from your course instructor.
 
 ### Environment Variable
 
-For the example project to build it is needed to add a environment variable (SENSABLE_3DTOUCH_BASE) which points to the install directory of the OpenHaptics SDK (usually C:\Program Files\SensAble\3DTouch). While installing there is already a environment variable created (3DTOUCH_BASE) but it seems to not be working with the Visual Studio macro system.
+For the example project to build it is needed to add a environment variable (SENSABLE_3DTOUCH_BASE) which points to the install directory of the OpenHaptics SDK (usually C:\Program Files\SensAble\3DTouch). While installing there is already a environment variable created (3DTOUCH_BASE) but it seems to be not working with the Visual Studio macro system.
 
 ### Binaries
 
